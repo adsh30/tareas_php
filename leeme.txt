@@ -1,0 +1,14 @@
+ENTRADAS:
+
+Administrador
+administrador@gmail.com
+admin
+
+Empleado
+empleado@gmail.com
+admin
+
+Evaluador
+evaluador@gmail.com		
+admin	
+
